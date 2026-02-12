@@ -1,0 +1,27 @@
+# Dossiers de téléchargement
+cahier_prepa_offline/
+cahier_prepa_test/
+
+# Logs
+*.log
+telecharger.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
